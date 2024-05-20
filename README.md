@@ -1,4 +1,3 @@
-![:name](https://count.getloli.com/get/@:name)
 
 <h2 align="center"></h2>
 
